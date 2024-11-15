@@ -1,3 +1,3 @@
-const SERVERURL = "https://my-json-server.typicode.com/sarangpachari/emp-management-server"
+const SERVERURL = "https://emp-management-server-fyex.onrender.com"
 
 export default SERVERURL
